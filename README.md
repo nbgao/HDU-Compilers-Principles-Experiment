@@ -1,5 +1,5 @@
 # HDU-Compilers-Principles-Experiment
-This repository is about the experiments of HDU Compilers Principles.
+This repository is about the experiments of HDU Compilers Principles course.
 
 ## Experiment 1 词法分析器设计  
 
