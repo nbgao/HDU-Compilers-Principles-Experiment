@@ -1,0 +1,23 @@
+int main()
+{
+	int NUM1 = 1024, _NUM2 = 076, _3NUM = 0xFEDCBA98;
+	char CH = '@';
+	char STRING = "hello world";
+	
+	for(int i=1;i<=_NUM2;i++)
+	{
+		if(i >= 50){
+			break;
+		}else{
+			int j = 10;
+			while(j != 0)
+			{
+				NUM1++;
+				printf("%d: %s\n", j, NUM1);
+			}
+		}
+			
+	}	
+	return 0;
+}
+##

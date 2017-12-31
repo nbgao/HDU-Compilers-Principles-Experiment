@@ -1,0 +1,18 @@
+----------Start----------
+(1, id: ID1)
+(1, id: ID_2)
+(1, id: ID__3)
+(1, id: _ID4)
+[Undefine]: 5_ID
+(2, num: 20171025)
+(2, num: 067412)
+[Undefine]: 0859
+(2, num: 0XF8E7D6C5)
+(2, num: 0xaaBBccDD)
+[Undefine]: 0XH2FG
+(3, ch: ''')
+(3, ch: '~')
+(3, ch: '^')
+(4, str: "'")
+(4, str: "string1")
+----------Finish----------

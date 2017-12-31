@@ -1,0 +1,15 @@
+variable
+
+2017
+'%'
+"TEXT"
+
+char int void
+
+if else switch case default while do for break continue return
+
++ - * / % ++ -- ! && || = > >= < <= == !=
+
+, : ; ( ) { }
+
+##
